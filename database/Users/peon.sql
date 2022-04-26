@@ -1,0 +1,4 @@
+CREATE USER [peon]
+	FOR LOGIN [peon]
+	WITH DEFAULT_SCHEMA = [dbo]
+GO
